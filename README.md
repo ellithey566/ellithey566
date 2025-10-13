@@ -30,7 +30,7 @@ Currently, I’m diving deeper into **Operating Systems**, **Data Structures & A
 
 - ⚙️ Operating Systems  
 - 🧩 Data Structures & Algorithms
-- <img width="16" alt="image" src="https://github.com/user-attachments/assets/8e38e12d-14a7-4c69-8b19-6fe8d0eeb08d" /> other college courses
+- &nbsp;<img width="17" alt="image" src="https://github.com/user-attachments/assets/8e38e12d-14a7-4c69-8b19-6fe8d0eeb08d" />  Other College Courses
 - 🌐 .NET Backend Diploma at [Route Academy]([https://routeegypt.com/](https://web.facebook.com/Routelearning)) *(Expected graduation: Feb 2026)*
 
 ---
