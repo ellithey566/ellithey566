@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa Al Lithey
+# 👋 Hi, I'm Mustafa AlLithey
 
 🎓 **Software Engineering Student** | 💻 **.NET Backend Developer in Training**  
 📍 *Based in El-Mansoura, Egypt*
